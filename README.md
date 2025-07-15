@@ -10,7 +10,7 @@
 - 📚 Currently learning Data Structure And Algorithms in Python and Java
 - 🎓 Studying BSc Computer Science at University of Bristol (currently in 3rd year on track for a First Class)
 - 💻 Aspiring Full Stack developer 
-- 🎮 Love watching podcasts, playing sports and going to the gym
+- 🎮 Love listening to podcasts, playing sports and going to the gym
 
 ## 🛠️ Tech Stack
 
