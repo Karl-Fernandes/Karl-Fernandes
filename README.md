@@ -31,7 +31,7 @@
   
 ### Tools & Others
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,vercel,discord,aws&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,vercel,aws&perline=4" /> 
 </div>
 </td>
 </tr></table>
